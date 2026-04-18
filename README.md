@@ -2,7 +2,7 @@
 
 An empirical investigation into the relationship between Brent crude and the US dollar index (DXY), and the conditions under which that relationship breaks down.
 
-Built as part of an ongoing effort to develop Python-based market analysis skills alongside an economics degree, with a focus on commodity markets.
+Built as part of an ongoing effort to develop Python-based market analysis skills alongside my economics degree, with a focus on commodity markets.
 
 ---
 
@@ -22,7 +22,7 @@ Both Brent and DXY rose simultaneously. Brent was driven higher by supply shock 
 **Late 2023 — Global Growth Softening**
 Both assets fell together. DXY weakened as markets priced Fed rate cuts and easing inflation. Brent fell on weak Chinese demand, broader manufacturing slowdown, and rising non-OPEC supply from the US, Brazil, and Norway. The October 7th attack briefly triggered a geopolitical risk premium, but investors concluded the supply impact would be short-lived.
 
-In both cases, the petrodollar mechanism was overwhelmed by a dominant macro regime driving both assets in the same direction.
+In both cases, the 'normal' relationship was overwhelmed by a dominant macro regime driving both assets in the same direction.
 
 ---
 
